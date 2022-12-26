@@ -1,4 +1,5 @@
-import ReactDOM from 'react-dom';
+import React from 'react'
+import ReactDOM from 'react-dom'
 import 'bootstrap/dist/css/bootstrap.css';
 
 import Web3Provider from './store/Web3Provider';
