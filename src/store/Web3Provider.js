@@ -1,4 +1,6 @@
 import { useReducer } from 'react';
+import React from 'react';
+import ReactDOM from 'react-dom';
 
 import Web3Context from './web3-context';
 
