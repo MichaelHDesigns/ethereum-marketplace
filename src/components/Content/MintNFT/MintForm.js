@@ -1,4 +1,6 @@
 import { useState, useContext } from 'react';
+import React from 'react'
+import ReactDOM from 'react-dom'
 
 import Web3Context from '../../../store/web3-context';
 import CollectionContext from '../../../store/collection-context';
