@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ethereum-marketplace/precache-manifest.438b885db4b91032da7658c2338f1a99.js"
+  "/ethereum-marketplace/precache-manifest.4966168d25173dc8f72be6fd17af062d.js"
 );
 
 self.addEventListener('message', (event) => {
