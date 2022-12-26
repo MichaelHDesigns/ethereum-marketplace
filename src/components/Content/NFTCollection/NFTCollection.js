@@ -1,4 +1,6 @@
 import { useContext, useRef, createRef } from 'react';
+import React from 'react';
+import ReactDOM from 'react-dom';
 
 import web3 from '../../../connection/web3';
 import Web3Context from '../../../store/web3-context';
