@@ -1,4 +1,6 @@
 import { useContext  } from 'react';
+import React from 'react';
+import ReactDOM from 'react-dom';
 
 import MintForm from './MintNFT/MintForm';
 import NFTCollection from './NFTCollection/NFTCollection';
