@@ -1,4 +1,6 @@
 import { useContext, useState } from 'react';
+import React from 'react';
+import ReactDOM from 'react-dom';
 
 import Web3Context from '../../store/web3-context';
 import MarketplaceContext from '../../store/marketplace-context';
