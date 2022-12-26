@@ -1,15 +1,24 @@
 {
-  "main.css": "/ethereum-marketplace/static/css/main.41cf10c9.chunk.css",
-  "main.js": "/ethereum-marketplace/static/js/main.ca49c1f6.chunk.js",
-  "main.js.map": "/ethereum-marketplace/static/js/main.ca49c1f6.chunk.js.map",
-  "static/css/1.21749cc4.chunk.css": "/ethereum-marketplace/static/css/1.21749cc4.chunk.css",
-  "static/js/1.02493663.chunk.js": "/ethereum-marketplace/static/js/1.02493663.chunk.js",
-  "static/js/1.02493663.chunk.js.map": "/ethereum-marketplace/static/js/1.02493663.chunk.js.map",
-  "runtime~main.js": "/ethereum-marketplace/static/js/runtime~main.42e5a1b9.js",
-  "runtime~main.js.map": "/ethereum-marketplace/static/js/runtime~main.42e5a1b9.js.map",
-  "static/css/main.41cf10c9.chunk.css.map": "/ethereum-marketplace/static/css/main.41cf10c9.chunk.css.map",
-  "static/css/1.21749cc4.chunk.css.map": "/ethereum-marketplace/static/css/1.21749cc4.chunk.css.map",
-  "index.html": "/ethereum-marketplace/index.html",
-  "precache-manifest.0ca27a6f2891e80d17cb73c007fdb82a.js": "/ethereum-marketplace/precache-manifest.0ca27a6f2891e80d17cb73c007fdb82a.js",
-  "service-worker.js": "/ethereum-marketplace/service-worker.js"
+  "files": {
+    "main.js": "/ethereum-marketplace/static/js/main.5f27393a.chunk.js",
+    "main.js.map": "/ethereum-marketplace/static/js/main.5f27393a.chunk.js.map",
+    "runtime-main.js": "/ethereum-marketplace/static/js/runtime-main.9e157011.js",
+    "runtime-main.js.map": "/ethereum-marketplace/static/js/runtime-main.9e157011.js.map",
+    "static/css/2.1f023efc.chunk.css": "/ethereum-marketplace/static/css/2.1f023efc.chunk.css",
+    "static/js/2.37471146.chunk.js": "/ethereum-marketplace/static/js/2.37471146.chunk.js",
+    "static/js/2.37471146.chunk.js.map": "/ethereum-marketplace/static/js/2.37471146.chunk.js.map",
+    "index.html": "/ethereum-marketplace/index.html",
+    "precache-manifest.438b885db4b91032da7658c2338f1a99.js": "/ethereum-marketplace/precache-manifest.438b885db4b91032da7658c2338f1a99.js",
+    "service-worker.js": "/ethereum-marketplace/service-worker.js",
+    "static/css/2.1f023efc.chunk.css.map": "/ethereum-marketplace/static/css/2.1f023efc.chunk.css.map",
+    "static/js/2.37471146.chunk.js.LICENSE": "/ethereum-marketplace/static/js/2.37471146.chunk.js.LICENSE",
+    "static/js/main.5f27393a.chunk.js.LICENSE": "/ethereum-marketplace/static/js/main.5f27393a.chunk.js.LICENSE",
+    "static/media/logo2.PNG": "/ethereum-marketplace/static/media/logo2.9de7f7f4.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e157011.js",
+    "static/css/2.1f023efc.chunk.css",
+    "static/js/2.37471146.chunk.js",
+    "static/js/main.5f27393a.chunk.js"
+  ]
 }
