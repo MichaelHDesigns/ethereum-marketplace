@@ -1,4 +1,6 @@
 import React, { useContext, useEffect } from 'react';
+import React from 'react';
+import ReactDOM from 'react-dom';
 
 import web3 from './connection/web3';
 import Navbar from './components/Layout/Navbar';
